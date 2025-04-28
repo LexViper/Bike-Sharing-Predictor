@@ -91,16 +91,18 @@ See `requirements.txt` for the full list. Key libraries include:
 - `statsmodels>=0.14.0`
 
 ## 📷 Sample Output
-- **Pairplot** of numerical features:
-  ![Pairplot](https://via.placeholder.com/150) *(Replace with actual screenshot)*
-- **Correlation Heatmap**:
-  ![Heatmap](https://via.placeholder.com/150) *(Replace with actual screenshot)*
-- **Actual vs Predicted** scatter plot:
-  ![Scatter](https://github.com/LexViper/Bike-Sharing-Predictor/blob/main/Output/Actual%20vs%20Pred.png) 
+### Pairplot of numerical features
+![Pairplot](https://raw.githubusercontent.com/LexViper/Bike-Sharing-Predictor/main/Output/plot.png)
+
+### Correlation Heatmap
+![Heatmap](https://raw.githubusercontent.com/LexViper/Bike-Sharing-Predictor/main/Output/Correlation.png)
+
+### Actual vs Predicted scatter plot
+![Actual vs Predicted](https://raw.githubusercontent.com/LexViper/Bike-Sharing-Predictor/main/Output/Actual%20vs%20Pred.png)
 
 ## 🤝 Contributing
 Feel free to fork this repo, open issues, or submit pull requests to improve the project! 🚀
 
 ## 📬 Contact
-Questions? Reach out via GitHub Issues or connect with me at [thisisabhay.c@gamil.com].
+Questions? Reach out via GitHub Issues or connect with me at thisisabhay.c@gamil.com.
 
