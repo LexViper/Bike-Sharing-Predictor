@@ -96,7 +96,7 @@ See `requirements.txt` for the full list. Key libraries include:
 - **Correlation Heatmap**:
   ![Heatmap](https://via.placeholder.com/150) *(Replace with actual screenshot)*
 - **Actual vs Predicted** scatter plot:
-  ![Scatter](https://via.placeholder.com/150) *(Replace with actual screenshot)*
+  ![Scatter](https://github.com/LexViper/Bike-Sharing-Predictor/blob/main/Output/Actual%20vs%20Pred.png) 
 
 ## 🤝 Contributing
 Feel free to fork this repo, open issues, or submit pull requests to improve the project! 🚀
